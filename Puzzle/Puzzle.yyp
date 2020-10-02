@@ -23,6 +23,7 @@
     {"id":{"name":"sBlock5","path":"sprites/sBlock5/sBlock5.yy",},"order":9,},
     {"id":{"name":"sPlayerUp","path":"sprites/sPlayerUp/sPlayerUp.yy",},"order":0,},
     {"id":{"name":"sBlock1","path":"sprites/sBlock1/sBlock1.yy",},"order":0,},
+    {"id":{"name":"puzzleGen","path":"scripts/puzzleGen/puzzleGen.yy",},"order":0,},
     {"id":{"name":"sCursor","path":"sprites/sCursor/sCursor.yy",},"order":11,},
     {"id":{"name":"sBlock4","path":"sprites/sBlock4/sBlock4.yy",},"order":8,},
     {"id":{"name":"sHouse","path":"sprites/sHouse/sHouse.yy",},"order":2,},
