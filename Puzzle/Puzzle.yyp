@@ -12,6 +12,7 @@
     {"id":{"name":"sTestBackground","path":"sprites/sTestBackground/sTestBackground.yy",},"order":5,},
     {"id":{"name":"sBlock2","path":"sprites/sBlock2/sBlock2.yy",},"order":6,},
     {"id":{"name":"sMargo","path":"sprites/sMargo/sMargo.yy",},"order":3,},
+    {"id":{"name":"puzzleTimer","path":"scripts/puzzleTimer/puzzleTimer.yy",},"order":1,},
     {"id":{"name":"oBlock1","path":"objects/oBlock1/oBlock1.yy",},"order":0,},
     {"id":{"name":"oTestBackground","path":"objects/oTestBackground/oTestBackground.yy",},"order":5,},
     {"id":{"name":"oBlock5","path":"objects/oBlock5/oBlock5.yy",},"order":9,},
